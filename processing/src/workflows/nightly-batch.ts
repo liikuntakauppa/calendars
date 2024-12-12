@@ -1,4 +1,4 @@
-import { join } from 'path';
+import { join, resolve } from 'path';
 
 import { Location, Service, Resource } from "../types.js";
 import { mkdir } from '../utils/fs.js';
@@ -68,9 +68,9 @@ const generateCalendar = async (name: string, config: RelevantServicesAndLocatio
     const resources = relevantEvents.flatMap(entry => entry.resources)
     const locations = relevantEvents.flatMap(entry => entry.locations)
 
-    console.log(`Generating an ICS file for ${JSON.stringify(name)} from ${events.length} events...`)
     const fileName = `calendar-${name.toLowerCase().replace(/ä|å/g, 'a').replace(/ö/g, 'o')}.ics`
     const filePath = join(mkdir('public', 'calendars'), fileName)
+    console.log(`Generating an ICS file for ${JSON.stringify(name)} from ${events.length} events at ${JSON.stringify(resolve(filePath))}...`)
     generateIcsFile(filePath, events, resources, locations)
 }
 
