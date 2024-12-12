@@ -1,0 +1,603 @@
+{
+  "locations": [
+    {
+      "id": 46,
+      "itemName": "Brahenkenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 40,
+      "itemName": "Herttoniemen liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 26,
+      "itemName": "Herttoniemenrannan liikuntahalli",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 41,
+      "itemName": "Herttoniemenrannan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 42,
+      "itemName": "Hietarannan uimaranta",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 27,
+      "itemName": "Kampin liikuntakeskus",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 28,
+      "itemName": "Katajanokan liikuntahalli",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 51,
+      "itemName": "Kontulan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 58,
+      "itemName": "Laajasalon liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 29,
+      "itemName": "Laajasalon palloiluhalli",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 61,
+      "itemName": "Lassilan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 1,
+      "itemName": "Latokartanon liikuntahalli",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 62,
+      "itemName": "Latokartanon liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 63,
+      "itemName": "Lauttasaaren liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 4,
+      "itemName": "Liikuntamylly",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 17,
+      "itemName": "Maunulan liikuntahalli",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 67,
+      "itemName": "Meilahden liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 70,
+      "itemName": "Munkkiniemenkenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 71,
+      "itemName": "Mustikkamaan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 8,
+      "itemName": "Pirkkolan uimahalli",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 31,
+      "itemName": "Puistolan liikuntahalli",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 80,
+      "itemName": "Puistolan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 81,
+      "itemName": "Pukinmäen liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 83,
+      "itemName": "Roihuvuoren liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 10,
+      "itemName": "Töölön kisahalli",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 97,
+      "itemName": "Vesalan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    }
+  ],
+  "regions": [
+    {
+      "id": 4,
+      "itemName": "Länsi",
+      "location_id": 46
+    },
+    {
+      "id": 3,
+      "itemName": "Itä",
+      "location_id": 40
+    },
+    {
+      "id": 2,
+      "itemName": "Pohjoinen",
+      "location_id": 61
+    }
+  ],
+  "resources": [
+    {
+      "location_id": 46,
+      "service_id": 73,
+      "parents": 586,
+      "children": null,
+      "id": 224,
+      "itemName": "Brahen ulko-koripallokenttä "
+    },
+    {
+      "location_id": 46,
+      "service_id": 73,
+      "parents": 586,
+      "children": null,
+      "id": 225,
+      "itemName": "Brahen ulko-minikoripallokenttä "
+    },
+    {
+      "location_id": 46,
+      "service_id": 73,
+      "parents": null,
+      "children": "223,224,225,647,648,649",
+      "id": 586,
+      "itemName": "Brahenkenttä"
+    },
+    {
+      "location_id": 40,
+      "service_id": 73,
+      "parents": null,
+      "children": "207,208,209",
+      "id": 589,
+      "itemName": "Herttoniemen liikuntapuisto"
+    },
+    {
+      "location_id": 40,
+      "service_id": 73,
+      "parents": 589,
+      "children": null,
+      "id": 207,
+      "itemName": "Herttoniemen ulko-koripallokenttä "
+    },
+    {
+      "location_id": 26,
+      "service_id": 73,
+      "parents": null,
+      "children": "2,3",
+      "id": 1,
+      "itemName": "Herttoniemenrannan liikuntahalli"
+    },
+    {
+      "location_id": 41,
+      "service_id": 73,
+      "parents": null,
+      "children": "210,211,212",
+      "id": 590,
+      "itemName": "Herttoniemenrannan liikuntapuisto"
+    },
+    {
+      "location_id": 41,
+      "service_id": 73,
+      "parents": 590,
+      "children": null,
+      "id": 211,
+      "itemName": "Herttoniemenrannan ulko-koripallokenttä "
+    },
+    {
+      "location_id": 42,
+      "service_id": 73,
+      "parents": 596,
+      "children": null,
+      "id": 213,
+      "itemName": "Hietarannan ulko-koripallokenttä "
+    },
+    {
+      "location_id": 27,
+      "service_id": 73,
+      "parents": 603,
+      "children": "22,23",
+      "id": 21,
+      "itemName": "Kampin liikuntahalli"
+    },
+    {
+      "location_id": 27,
+      "service_id": 73,
+      "parents": "21,603",
+      "children": null,
+      "id": 22,
+      "itemName": "Kampin liikuntahalli osa 1"
+    },
+    {
+      "location_id": 27,
+      "service_id": 73,
+      "parents": "21,603",
+      "children": null,
+      "id": 23,
+      "itemName": "Kampin liikuntahalli osa 2"
+    },
+    {
+      "location_id": 27,
+      "service_id": 73,
+      "parents": null,
+      "children": "21,22,23,24,25",
+      "id": 603,
+      "itemName": "Kampin liikuntakeskus"
+    },
+    {
+      "location_id": 28,
+      "service_id": 73,
+      "parents": null,
+      "children": "27,669",
+      "id": 26,
+      "itemName": "Katajanokan liikuntahalli kaikki"
+    },
+    {
+      "location_id": 28,
+      "service_id": 73,
+      "parents": 26,
+      "children": null,
+      "id": 669,
+      "itemName": "Katajanokan liikuntahalli, iso puoli"
+    },
+    {
+      "location_id": 28,
+      "service_id": 73,
+      "parents": 26,
+      "children": null,
+      "id": 27,
+      "itemName": "Katajanokan liikuntasali, pieni"
+    },
+    {
+      "location_id": 10,
+      "service_id": 73,
+      "parents": "641,666",
+      "children": null,
+      "id": 158,
+      "itemName": "Kisahalli A koripallokenttä"
+    },
+    {
+      "location_id": 10,
+      "service_id": 73,
+      "parents": "641,667",
+      "children": null,
+      "id": 159,
+      "itemName": "Kisahalli B koripallokenttä"
+    },
+    {
+      "location_id": 51,
+      "service_id": 73,
+      "parents": 609,
+      "children": null,
+      "id": 235,
+      "itemName": "Kontulan ulko-koripallokenttä"
+    },
+    {
+      "location_id": 58,
+      "service_id": 73,
+      "parents": null,
+      "children": "256,257,258,259,260,261,1037",
+      "id": 615,
+      "itemName": "Laajasalon liikuntapuisto"
+    },
+    {
+      "location_id": 29,
+      "service_id": 73,
+      "parents": null,
+      "children": null,
+      "id": 37,
+      "itemName": "Laajasalon palloiluhalli"
+    },
+    {
+      "location_id": 58,
+      "service_id": 73,
+      "parents": 615,
+      "children": null,
+      "id": 256,
+      "itemName": "Laajasalon ulko-koripallokenttä"
+    },
+    {
+      "location_id": 58,
+      "service_id": 73,
+      "parents": 615,
+      "children": null,
+      "id": 257,
+      "itemName": "Laajasalon ulko-minikoripallokenttä "
+    },
+    {
+      "location_id": 61,
+      "service_id": 73,
+      "parents": null,
+      "children": "265,266,267",
+      "id": 616,
+      "itemName": "Lassilan liikuntapuisto"
+    },
+    {
+      "location_id": 1,
+      "service_id": 73,
+      "parents": null,
+      "children": "38,39,40,41,42,43",
+      "id": 617,
+      "itemName": "Latokartanon liikuntahalli"
+    },
+    {
+      "location_id": 1,
+      "service_id": 73,
+      "parents": 617,
+      "children": "39,40",
+      "id": 38,
+      "itemName": "Latokartanon liikuntahalli 1"
+    },
+    {
+      "location_id": 1,
+      "service_id": 73,
+      "parents": 617,
+      "children": "42,43",
+      "id": 41,
+      "itemName": "Latokartanon liikuntahalli 2"
+    },
+    {
+      "location_id": 62,
+      "service_id": 73,
+      "parents": null,
+      "children": "268,269,270,271",
+      "id": 618,
+      "itemName": "Latokartanon liikuntapuisto"
+    },
+    {
+      "location_id": 63,
+      "service_id": 73,
+      "parents": null,
+      "children": "272,273,274,275,276,277,1038",
+      "id": 650,
+      "itemName": "Lauttasaaren liikuntapuisto"
+    },
+    {
+      "location_id": 4,
+      "service_id": 73,
+      "parents": null,
+      "children": "44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,585,1019,1020,1021,1022,1047",
+      "id": 619,
+      "itemName": "Liikuntamylly"
+    },
+    {
+      "location_id": 4,
+      "service_id": 73,
+      "parents": "585,619",
+      "children": "51,52",
+      "id": 50,
+      "itemName": "Liikuntamylly lähiöalue, osa 2 (koripallo, lentopallo)"
+    },
+    {
+      "location_id": 4,
+      "service_id": 73,
+      "parents": 619,
+      "children": null,
+      "id": 56,
+      "itemName": "Liikuntamylly salibandy/koripallo kenttä"
+    },
+    {
+      "location_id": 17,
+      "service_id": 73,
+      "parents": null,
+      "children": "67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89",
+      "id": 621,
+      "itemName": "Maunulan liikuntahalli"
+    },
+    {
+      "location_id": 17,
+      "service_id": 73,
+      "parents": 621,
+      "children": null,
+      "id": 82,
+      "itemName": "Maunulan sali 1"
+    },
+    {
+      "location_id": 67,
+      "service_id": 73,
+      "parents": null,
+      "children": "284,285,286,287",
+      "id": 623,
+      "itemName": "Meilahden liikuntapuisto"
+    },
+    {
+      "location_id": 67,
+      "service_id": 73,
+      "parents": 623,
+      "children": null,
+      "id": 284,
+      "itemName": "Meilahden ulko-koripallokenttä 1"
+    },
+    {
+      "location_id": 67,
+      "service_id": 73,
+      "parents": 623,
+      "children": null,
+      "id": 285,
+      "itemName": "Meilahden ulko-koripallokenttä 2"
+    },
+    {
+      "location_id": 67,
+      "service_id": 73,
+      "parents": 623,
+      "children": null,
+      "id": 286,
+      "itemName": "Meilahden ulko-minikoripallokenttä"
+    },
+    {
+      "location_id": 70,
+      "service_id": 73,
+      "parents": 624,
+      "children": null,
+      "id": 290,
+      "itemName": "Munkkiniemen ulko-koripallokenttä"
+    },
+    {
+      "location_id": 70,
+      "service_id": 73,
+      "parents": null,
+      "children": "290,291",
+      "id": 624,
+      "itemName": "Munkkiniemenkenttä"
+    },
+    {
+      "location_id": 71,
+      "service_id": 73,
+      "parents": null,
+      "children": "292,293,294,295",
+      "id": 625,
+      "itemName": "Mustikkamaan liikuntapuisto"
+    },
+    {
+      "location_id": 8,
+      "service_id": 73,
+      "parents": 651,
+      "children": null,
+      "id": 108,
+      "itemName": "Pirkkolan palloiluhalli"
+    },
+    {
+      "location_id": 8,
+      "service_id": 73,
+      "parents": null,
+      "children": "107,108,109,110,111,112,113,114,115,116,1013,1032,1033",
+      "id": 651,
+      "itemName": "Pirkkolan uimahalli"
+    },
+    {
+      "location_id": 31,
+      "service_id": 73,
+      "parents": null,
+      "children": "118,119,120",
+      "id": 117,
+      "itemName": "Puistolan liikuntahalli"
+    },
+    {
+      "location_id": 31,
+      "service_id": 73,
+      "parents": 117,
+      "children": null,
+      "id": 118,
+      "itemName": "Puistolan liikuntahalli kenttä 1"
+    },
+    {
+      "location_id": 31,
+      "service_id": 73,
+      "parents": 117,
+      "children": null,
+      "id": 119,
+      "itemName": "Puistolan liikuntahalli kenttä 2"
+    },
+    {
+      "location_id": 31,
+      "service_id": 73,
+      "parents": 117,
+      "children": null,
+      "id": 120,
+      "itemName": "Puistolan liikuntahalli kenttä 3"
+    },
+    {
+      "location_id": 80,
+      "service_id": 73,
+      "parents": null,
+      "children": "333,334,335,1056",
+      "id": 632,
+      "itemName": "Puistolan liikuntapuisto"
+    },
+    {
+      "location_id": 81,
+      "service_id": 73,
+      "parents": null,
+      "children": "336,337,338,339,340,341,342,343,677",
+      "id": 633,
+      "itemName": "Pukinmäen liikuntapuisto"
+    },
+    {
+      "location_id": 83,
+      "service_id": 73,
+      "parents": null,
+      "children": "345,346,347,348,1048,1049,1050",
+      "id": 634,
+      "itemName": "Roihuvuoren liikuntapuisto"
+    },
+    {
+      "location_id": 83,
+      "service_id": 73,
+      "parents": 634,
+      "children": null,
+      "id": 345,
+      "itemName": "Roihuvuoren ulko-koripallokenttä"
+    },
+    {
+      "location_id": 10,
+      "service_id": 73,
+      "parents": null,
+      "children": "154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,578,666,667,1014,1015,1016,1017,1018",
+      "id": 641,
+      "itemName": "Töölön kisahalli"
+    },
+    {
+      "location_id": 97,
+      "service_id": 73,
+      "parents": null,
+      "children": "403,404,405,406",
+      "id": 644,
+      "itemName": "Vesalan liikuntapuisto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "kisahalli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "build/public-calendar-api.js",
+  "scripts": {
+    "compile": "npx tsc",
+    "start": "npm run compile && npx node build/src/workflows/nightly-batch.js",
+    "test": "npm run compile && vitest --run"
+  },
+  "keywords": [],
+  "author": "Lasse Koskela",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "got": "^14.4.5",
+    "ics": "^3.8.1",
+    "stream-buffers": "^3.0.3",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "vitest": "^2.1.8"
+  }
+}

@@ -1,0 +1,1201 @@
+{
+  "locations": [
+    {
+      "id": 79,
+      "itemName": "Aino Acktén kenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 33,
+      "itemName": "Akseli Toivosen kenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 34,
+      "itemName": "Ala-Malmin liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 35,
+      "itemName": "Annalankenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 36,
+      "itemName": "Arabianrannan liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 46,
+      "itemName": "Brahenkenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 40,
+      "itemName": "Herttoniemen liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 41,
+      "itemName": "Herttoniemenrannan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 226,
+      "itemName": "Heteniitynkenttä",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 43,
+      "itemName": "Jakomäen liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 289,
+      "itemName": "Jätkäsaaren liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 317,
+      "itemName": "Johanneksen kenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 45,
+      "itemName": "Kallahdenkenttä",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 47,
+      "itemName": "Kannelmäen liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 55,
+      "itemName": "Käpylän liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 50,
+      "itemName": "Konalan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 51,
+      "itemName": "Kontulan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 19,
+      "itemName": "Kontulan tekojäärata",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 301,
+      "itemName": "Kruunuvuorenrannan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 58,
+      "itemName": "Laajasalon liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 227,
+      "itemName": "Laajasuon liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 62,
+      "itemName": "Latokartanon liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 63,
+      "itemName": "Lauttasaaren liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 64,
+      "itemName": "Malminkartanonkenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 70,
+      "itemName": "Munkkiniemenkenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 71,
+      "itemName": "Mustikkamaan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 72,
+      "itemName": "Myllypuron liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 73,
+      "itemName": "Paloheinänkenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 30,
+      "itemName": "Pirkkolan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 78,
+      "itemName": "Pitäjänmäen urheilukenttä",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 80,
+      "itemName": "Puistolan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 81,
+      "itemName": "Pukinmäen liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 83,
+      "itemName": "Roihuvuoren liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 16,
+      "itemName": "Ruskeasuon liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 85,
+      "itemName": "Siltamäen liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 88,
+      "itemName": "Suomenlinna",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 32,
+      "itemName": "Talin liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 92,
+      "itemName": "Tapulikaupungin liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 93,
+      "itemName": "Tehtaanpuiston kenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 96,
+      "itemName": "Töölön pallokenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 97,
+      "itemName": "Vesalan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 98,
+      "itemName": "Viikinkenttä",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 99,
+      "itemName": "Vuosaaren liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    }
+  ],
+  "regions": [
+    {
+      "id": 2,
+      "itemName": "Pohjoinen",
+      "location_id": 79
+    },
+    {
+      "id": 4,
+      "itemName": "Länsi",
+      "location_id": 33
+    },
+    {
+      "id": 3,
+      "itemName": "Itä",
+      "location_id": 40
+    }
+  ],
+  "resources": [
+    {
+      "location_id": 79,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 332,
+      "itemName": "Aino Actén hiekkakenttä"
+    },
+    {
+      "location_id": 33,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 188,
+      "itemName": "Akseli Toivosen hiekkakenttä"
+    },
+    {
+      "location_id": 34,
+      "service_id": 92,
+      "parents": 670,
+      "children": null,
+      "id": 189,
+      "itemName": "Ala-Malmin jalkapallokenttä, hiekka"
+    },
+    {
+      "location_id": 34,
+      "service_id": 92,
+      "parents": 670,
+      "children": null,
+      "id": 190,
+      "itemName": "Ala-Malmin jalkapallokenttä, nurmi"
+    },
+    {
+      "location_id": 34,
+      "service_id": 92,
+      "parents": null,
+      "children": "189,190",
+      "id": 670,
+      "itemName": "Ala-Malmin liikuntapuisto"
+    },
+    {
+      "location_id": 35,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 191,
+      "itemName": "Annalan hiekkakenttä"
+    },
+    {
+      "location_id": 36,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 192,
+      "itemName": "Arabianrannan tekonurmikenttä"
+    },
+    {
+      "location_id": 46,
+      "service_id": 92,
+      "parents": 586,
+      "children": "647,648,649",
+      "id": 223,
+      "itemName": "Brahen tekojää/tekonurmikenttä"
+    },
+    {
+      "location_id": 40,
+      "service_id": 92,
+      "parents": 589,
+      "children": null,
+      "id": 209,
+      "itemName": "Herttoniemen urheilukenttä"
+    },
+    {
+      "location_id": 41,
+      "service_id": 92,
+      "parents": null,
+      "children": "210,211,212",
+      "id": 590,
+      "itemName": "Herttoniemenrannan liikuntapuisto"
+    },
+    {
+      "location_id": 226,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 413,
+      "itemName": "Heteniityn nurmikenttä/ Yleisurheilu"
+    },
+    {
+      "location_id": 43,
+      "service_id": 92,
+      "parents": 598,
+      "children": null,
+      "id": 215,
+      "itemName": "Jakomäen hiekkakenttä"
+    },
+    {
+      "location_id": 43,
+      "service_id": 92,
+      "parents": null,
+      "children": "215,216,217",
+      "id": 598,
+      "itemName": "Jakomäen liikuntapuisto"
+    },
+    {
+      "location_id": 43,
+      "service_id": 92,
+      "parents": 598,
+      "children": null,
+      "id": 217,
+      "itemName": "Jakomäen nappulatekonurmi"
+    },
+    {
+      "location_id": 289,
+      "service_id": 92,
+      "parents": 1035,
+      "children": null,
+      "id": 1036,
+      "itemName": "Jätkäsaaren tekonurmi/tekojää"
+    },
+    {
+      "location_id": 317,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 1062,
+      "itemName": "Johanneksen tekonurmi / tekojää"
+    },
+    {
+      "location_id": 45,
+      "service_id": 92,
+      "parents": 602,
+      "children": null,
+      "id": 222,
+      "itemName": "Kallahden nappulatekonurmi"
+    },
+    {
+      "location_id": 47,
+      "service_id": 92,
+      "parents": null,
+      "children": "226,227,228",
+      "id": 604,
+      "itemName": "Kannelmäen liikuntapuisto"
+    },
+    {
+      "location_id": 47,
+      "service_id": 92,
+      "parents": 604,
+      "children": null,
+      "id": 226,
+      "itemName": "Kannelmäen tekonurmi"
+    },
+    {
+      "location_id": 55,
+      "service_id": 92,
+      "parents": 613,
+      "children": null,
+      "id": 249,
+      "itemName": "Käpylän hybridi nurmi"
+    },
+    {
+      "location_id": 55,
+      "service_id": 92,
+      "parents": 613,
+      "children": null,
+      "id": 246,
+      "itemName": "Käpylän Koskelantie nappulatekonurmikenttä"
+    },
+    {
+      "location_id": 55,
+      "service_id": 92,
+      "parents": 613,
+      "children": null,
+      "id": 247,
+      "itemName": "Käpylän nurmikenttä 1"
+    },
+    {
+      "location_id": 55,
+      "service_id": 92,
+      "parents": 613,
+      "children": null,
+      "id": 248,
+      "itemName": "Käpylän nurmikenttä 2"
+    },
+    {
+      "location_id": 55,
+      "service_id": 92,
+      "parents": 613,
+      "children": null,
+      "id": 245,
+      "itemName": "Käpylän tekonurmi/tekojää"
+    },
+    {
+      "location_id": 50,
+      "service_id": 92,
+      "parents": 607,
+      "children": null,
+      "id": 231,
+      "itemName": "Konalan hiekkakenttä"
+    },
+    {
+      "location_id": 50,
+      "service_id": 92,
+      "parents": null,
+      "children": 231,
+      "id": 607,
+      "itemName": "Konalan liikuntapuisto"
+    },
+    {
+      "location_id": 51,
+      "service_id": 92,
+      "parents": 609,
+      "children": null,
+      "id": 232,
+      "itemName": "Kontulan harjoitusnurmikenttä"
+    },
+    {
+      "location_id": 51,
+      "service_id": 92,
+      "parents": null,
+      "children": "232,233,234,235,236,237",
+      "id": 609,
+      "itemName": "Kontulan liikuntapuisto"
+    },
+    {
+      "location_id": 51,
+      "service_id": 92,
+      "parents": 609,
+      "children": null,
+      "id": 234,
+      "itemName": "Kontulan nurmikenttä "
+    },
+    {
+      "location_id": 51,
+      "service_id": 92,
+      "parents": 609,
+      "children": null,
+      "id": 237,
+      "itemName": "Kontulan tekonurmi / tekojää"
+    },
+    {
+      "location_id": 301,
+      "service_id": 92,
+      "parents": null,
+      "children": 1057,
+      "id": 1058,
+      "itemName": "Kruunuvuorenrannan liikuntapuisto"
+    },
+    {
+      "location_id": 301,
+      "service_id": 92,
+      "parents": 1058,
+      "children": null,
+      "id": 1057,
+      "itemName": "Kruunuvuorenrannan tekonurmi"
+    },
+    {
+      "location_id": 58,
+      "service_id": 92,
+      "parents": null,
+      "children": "256,257,258,259,260,261,1037",
+      "id": 615,
+      "itemName": "Laajasalon liikuntapuisto"
+    },
+    {
+      "location_id": 58,
+      "service_id": 92,
+      "parents": 615,
+      "children": null,
+      "id": 258,
+      "itemName": "Laajasalon nappulanurmikenttä"
+    },
+    {
+      "location_id": 58,
+      "service_id": 92,
+      "parents": 615,
+      "children": null,
+      "id": 259,
+      "itemName": "Laajasalon nurmikenttä"
+    },
+    {
+      "location_id": 227,
+      "service_id": 92,
+      "parents": null,
+      "children": "1054,1055",
+      "id": 675,
+      "itemName": "Laajasuon tekonurmi"
+    },
+    {
+      "location_id": 227,
+      "service_id": 92,
+      "parents": 675,
+      "children": null,
+      "id": 1054,
+      "itemName": "Laajasuon tekonurmi osa 1"
+    },
+    {
+      "location_id": 227,
+      "service_id": 92,
+      "parents": 675,
+      "children": null,
+      "id": 1055,
+      "itemName": "Laajasuon tekonurmi osa 2"
+    },
+    {
+      "location_id": 62,
+      "service_id": 92,
+      "parents": null,
+      "children": "268,269,270,271",
+      "id": 618,
+      "itemName": "Latokartanon liikuntapuisto"
+    },
+    {
+      "location_id": 62,
+      "service_id": 92,
+      "parents": 618,
+      "children": null,
+      "id": 269,
+      "itemName": "Latokartanon tekonurmikenttä"
+    },
+    {
+      "location_id": 63,
+      "service_id": 92,
+      "parents": null,
+      "children": "272,273,274,275,276,277,1038",
+      "id": 650,
+      "itemName": "Lauttasaaren liikuntapuisto"
+    },
+    {
+      "location_id": 63,
+      "service_id": 92,
+      "parents": 650,
+      "children": null,
+      "id": 276,
+      "itemName": "Lauttasaaren tekonurmikenttä"
+    },
+    {
+      "location_id": 64,
+      "service_id": 92,
+      "parents": 620,
+      "children": null,
+      "id": 278,
+      "itemName": "Malminkartanon nappulahiekkakenttä (pois käytöstä toistaiseksi)"
+    },
+    {
+      "location_id": 70,
+      "service_id": 92,
+      "parents": 624,
+      "children": null,
+      "id": 291,
+      "itemName": "Munkkiniemen nappulatekonurmikenttä"
+    },
+    {
+      "location_id": 70,
+      "service_id": 92,
+      "parents": null,
+      "children": "290,291",
+      "id": 624,
+      "itemName": "Munkkiniemenkenttä"
+    },
+    {
+      "location_id": 71,
+      "service_id": 92,
+      "parents": 625,
+      "children": null,
+      "id": 295,
+      "itemName": "Mustikkamaan hiekkakenttä"
+    },
+    {
+      "location_id": 71,
+      "service_id": 92,
+      "parents": null,
+      "children": "292,293,294,295",
+      "id": 625,
+      "itemName": "Mustikkamaan liikuntapuisto"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": null,
+      "children": "100,101,102,296,297,298,299,300,301,1026",
+      "id": 626,
+      "itemName": "Myllypuron liikuntapuisto"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": 626,
+      "children": null,
+      "id": 297,
+      "itemName": "Myllypuron nappulanurmikenttä"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": 626,
+      "children": "101,102",
+      "id": 100,
+      "itemName": "Myllypuron Pallomylly"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": "100,626",
+      "children": null,
+      "id": 101,
+      "itemName": "Myllypuron Pallomylly osa 1"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": "100,626",
+      "children": null,
+      "id": 102,
+      "itemName": "Myllypuron Pallomylly osa 2"
+    },
+    {
+      "location_id": 72,
+      "service_id": 92,
+      "parents": 626,
+      "children": null,
+      "id": 301,
+      "itemName": "Myllypuron tekonurmikenttä"
+    },
+    {
+      "location_id": 73,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 315,
+      "itemName": "Paloheinän majan hiekkakenttä"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": 630,
+      "children": null,
+      "id": 319,
+      "itemName": "Pirkkolan hiekkakenttä / Yleisurheilu"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": null,
+      "children": "103,104,105,106,319,320,321,322,323,324,325,326,327,1043,1044",
+      "id": 630,
+      "itemName": "Pirkkolan liikuntapuisto"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": 630,
+      "children": null,
+      "id": 322,
+      "itemName": "Pirkkolan nappulatekonurmikenttä"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": 630,
+      "children": null,
+      "id": 323,
+      "itemName": "Pirkkolan nurmikenttä"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": 630,
+      "children": "326,327",
+      "id": 325,
+      "itemName": "Pirkkolan tekonurmikenttä"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": "325,630",
+      "children": null,
+      "id": 326,
+      "itemName": "Pirkkolan tekonurmikenttä osa 1"
+    },
+    {
+      "location_id": 30,
+      "service_id": 92,
+      "parents": "325,630",
+      "children": null,
+      "id": 327,
+      "itemName": "Pirkkolan tekonurmikenttä osa 2"
+    },
+    {
+      "location_id": 78,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 331,
+      "itemName": "Pitäjänmäen tekonurmikenttä"
+    },
+    {
+      "location_id": 80,
+      "service_id": 92,
+      "parents": null,
+      "children": "333,334,335,1056",
+      "id": 632,
+      "itemName": "Puistolan liikuntapuisto"
+    },
+    {
+      "location_id": 80,
+      "service_id": 92,
+      "parents": 632,
+      "children": null,
+      "id": 334,
+      "itemName": "Puistolan nurmikenttä"
+    },
+    {
+      "location_id": 80,
+      "service_id": 92,
+      "parents": 632,
+      "children": null,
+      "id": 1056,
+      "itemName": "Puistolan tekonurmi"
+    },
+    {
+      "location_id": 81,
+      "service_id": 92,
+      "parents": 633,
+      "children": null,
+      "id": 336,
+      "itemName": "Pukinmäen hiekkakenttä"
+    },
+    {
+      "location_id": 81,
+      "service_id": 92,
+      "parents": null,
+      "children": "336,337,338,339,340,341,342,343,677",
+      "id": 633,
+      "itemName": "Pukinmäen liikuntapuisto"
+    },
+    {
+      "location_id": 81,
+      "service_id": 92,
+      "parents": 633,
+      "children": null,
+      "id": 340,
+      "itemName": "Pukinmäen nappulahiekkakenttä"
+    },
+    {
+      "location_id": 81,
+      "service_id": 92,
+      "parents": 633,
+      "children": null,
+      "id": 341,
+      "itemName": "Pukinmäen nurmikenttä / Yleisurheilu"
+    },
+    {
+      "location_id": 83,
+      "service_id": 92,
+      "parents": null,
+      "children": "345,346,347,348,1048,1049,1050",
+      "id": 634,
+      "itemName": "Roihuvuoren liikuntapuisto"
+    },
+    {
+      "location_id": 16,
+      "service_id": 92,
+      "parents": 635,
+      "children": null,
+      "id": 349,
+      "itemName": "Ruskeasuon hiekkakenttä EI VARATA!!"
+    },
+    {
+      "location_id": 16,
+      "service_id": 92,
+      "parents": null,
+      "children": "121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,349,350,1025,1063,1064",
+      "id": 635,
+      "itemName": "Ruskeasuon liikuntapuisto"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": 636,
+      "children": null,
+      "id": 359,
+      "itemName": "Siltamäen hiekkakenttä"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": null,
+      "children": "359,360,361,362,363,364,365,366,367,368,369,370",
+      "id": 636,
+      "itemName": "Siltamäen liikuntapuisto"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": 636,
+      "children": null,
+      "id": 361,
+      "itemName": "Siltamäen nappulanurmikenttä 1"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": 636,
+      "children": null,
+      "id": 362,
+      "itemName": "Siltamäen nappulanurmikenttä 2"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": 636,
+      "children": null,
+      "id": 363,
+      "itemName": "Siltamäen nurmikenttä 1"
+    },
+    {
+      "location_id": 85,
+      "service_id": 92,
+      "parents": 636,
+      "children": null,
+      "id": 364,
+      "itemName": "Siltamäen nurmikenttä 2"
+    },
+    {
+      "location_id": 88,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 374,
+      "itemName": "Suomenlinnan hiekkakenttä"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 377,
+      "itemName": "Talin hiekkakenttä 2"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": "150,151",
+      "id": 149,
+      "itemName": "Talin jalkapallohalli"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": "149,638",
+      "children": null,
+      "id": 150,
+      "itemName": "Talin jalkapallohalli osa 1"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": "149,638",
+      "children": null,
+      "id": 151,
+      "itemName": "Talin jalkapallohalli osa 2"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": null,
+      "children": "149,150,151,152,153,377,378,379,380,381,382,383",
+      "id": 638,
+      "itemName": "Talin liikuntapuisto"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 378,
+      "itemName": "Talin nurmikenttä 1"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 379,
+      "itemName": "Talin nurmikenttä 2"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 380,
+      "itemName": "Talin nurmikenttä 3"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 382,
+      "itemName": "Talin tekonurmikenttä"
+    },
+    {
+      "location_id": 32,
+      "service_id": 92,
+      "parents": 638,
+      "children": null,
+      "id": 383,
+      "itemName": "Talin vapaaharjoitusnurmikenttä"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 385,
+      "itemName": "Tapulin nappulahiekkakenttä 1"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 386,
+      "itemName": "Tapulin nappulahiekkakenttä 2"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 389,
+      "itemName": "Tapulin nappulanurmikenttä 1"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 388,
+      "itemName": "Tapulin nappulanurmikenttä 2"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 387,
+      "itemName": "Tapulin nappulanurmikenttä 3"
+    },
+    {
+      "location_id": 92,
+      "service_id": 92,
+      "parents": 639,
+      "children": null,
+      "id": 390,
+      "itemName": "Tapulin tekonurmikenttä"
+    },
+    {
+      "location_id": 93,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 391,
+      "itemName": "Tehtaanpuiston nappulatekonurmikenttä"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": null,
+      "children": "396,397,398,399,400,1045,1046",
+      "id": 642,
+      "itemName": "Töölön pallokenttä"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": 642,
+      "children": "1045,1046",
+      "id": 396,
+      "itemName": "Töölön pallokenttä 1 tekonurmi"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": "396,642",
+      "children": null,
+      "id": 1045,
+      "itemName": "Töölön pallokenttä 1 tekonurmi, osa 1"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": "396,642",
+      "children": null,
+      "id": 1046,
+      "itemName": "Töölön pallokenttä 1 tekonurmi, osa 2"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": 642,
+      "children": null,
+      "id": 397,
+      "itemName": "Töölön pallokenttä 2 nurmi"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": 642,
+      "children": "399,400",
+      "id": 398,
+      "itemName": "Töölön pallokenttä 3 (ent. 6) tekonurmi"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": "398,642",
+      "children": null,
+      "id": 399,
+      "itemName": "Töölön pallokenttä 3 (ent. 6) tekonurmi osa 1"
+    },
+    {
+      "location_id": 96,
+      "service_id": 92,
+      "parents": "398,642",
+      "children": null,
+      "id": 400,
+      "itemName": "Töölön pallokenttä 3 (ent. 6) tekonurmi osa 2"
+    },
+    {
+      "location_id": 97,
+      "service_id": 92,
+      "parents": null,
+      "children": "403,404,405,406",
+      "id": 644,
+      "itemName": "Vesalan liikuntapuisto"
+    },
+    {
+      "location_id": 97,
+      "service_id": 92,
+      "parents": 644,
+      "children": null,
+      "id": 406,
+      "itemName": "Vesalan nappulatekonurmikenttä"
+    },
+    {
+      "location_id": 98,
+      "service_id": 92,
+      "parents": null,
+      "children": null,
+      "id": 407,
+      "itemName": "Viikin hiekkakenttä"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": 645,
+      "children": null,
+      "id": 1028,
+      "itemName": "Vuosaaren kartanon tekonurmi 1"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": 645,
+      "children": "410,411",
+      "id": 409,
+      "itemName": "Vuosaaren kartanon tekonurmi 2"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": "409,645",
+      "children": null,
+      "id": 410,
+      "itemName": "Vuosaaren kartanon tekonurmi 2 osa 1"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": "409,645",
+      "children": null,
+      "id": 411,
+      "itemName": "Vuosaaren kartanon tekonurmi 2 osa 2"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": 645,
+      "children": "1059,1060",
+      "id": 408,
+      "itemName": "Vuosaaren kartanon tekonurmi 3"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": 408,
+      "children": null,
+      "id": 1059,
+      "itemName": "Vuosaaren kartanon tekonurmi 3 osa 1"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": 408,
+      "children": null,
+      "id": 1060,
+      "itemName": "Vuosaaren kartanon tekonurmi 3 osa 2"
+    },
+    {
+      "location_id": 99,
+      "service_id": 92,
+      "parents": null,
+      "children": "408,409,410,411,412,1000,1028",
+      "id": 645,
+      "itemName": "Vuosaaren liikuntapuisto"
+    }
+  ]
+}

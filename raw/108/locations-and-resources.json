@@ -1,0 +1,137 @@
+{
+  "locations": [
+    {
+      "id": 55,
+      "itemName": "Käpylän liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 58,
+      "itemName": "Laajasalon liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 61,
+      "itemName": "Lassilan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 63,
+      "itemName": "Lauttasaaren liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 15,
+      "itemName": "Oulunkylän liikuntapuisto, REMONTISSA 2024-25",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 30,
+      "itemName": "Pirkkolan liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    },
+    {
+      "id": 81,
+      "itemName": "Pukinmäen liikuntapuisto",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    }
+  ],
+  "regions": [
+    {
+      "id": 4,
+      "itemName": "Länsi",
+      "location_id": 55
+    },
+    {
+      "id": 3,
+      "itemName": "Itä",
+      "location_id": 58
+    },
+    {
+      "id": 2,
+      "itemName": "Pohjoinen",
+      "location_id": 61
+    }
+  ],
+  "resources": [
+    {
+      "location_id": 55,
+      "service_id": 108,
+      "parents": 613,
+      "children": null,
+      "id": 1024,
+      "itemName": "Käpylän tekojääkaukalo/rullakiekkokaukalo"
+    },
+    {
+      "location_id": 58,
+      "service_id": 108,
+      "parents": 615,
+      "children": null,
+      "id": 1037,
+      "itemName": "Laajasalon kaukalo"
+    },
+    {
+      "location_id": 61,
+      "service_id": 108,
+      "parents": 616,
+      "children": null,
+      "id": 266,
+      "itemName": "Lassilan kaukalo tekojää"
+    },
+    {
+      "location_id": 63,
+      "service_id": 108,
+      "parents": 650,
+      "children": null,
+      "id": 1038,
+      "itemName": "Lauttasaaren kaukalo"
+    },
+    {
+      "location_id": 15,
+      "service_id": 108,
+      "parents": null,
+      "children": "90,91,92,93,94,95,96,97,98,99,302,303,304,305,306",
+      "id": 628,
+      "itemName": "Oulunkylä liikuntapuisto"
+    },
+    {
+      "location_id": 15,
+      "service_id": 108,
+      "parents": 628,
+      "children": null,
+      "id": 90,
+      "itemName": "Oulunkylän jäähalli"
+    },
+    {
+      "location_id": 30,
+      "service_id": 108,
+      "parents": 630,
+      "children": null,
+      "id": 103,
+      "itemName": "Pirkkolan jäähalli 1"
+    },
+    {
+      "location_id": 30,
+      "service_id": 108,
+      "parents": 630,
+      "children": null,
+      "id": 104,
+      "itemName": "Pirkkolan jäähalli 2"
+    },
+    {
+      "location_id": 81,
+      "service_id": 108,
+      "parents": 633,
+      "children": null,
+      "id": 677,
+      "itemName": "Pukinmäen tekojääkaukalo"
+    }
+  ]
+}

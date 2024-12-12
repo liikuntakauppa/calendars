@@ -1,0 +1,232 @@
+{
+  "result": [
+    {
+      "name": "---"
+    },
+    {
+      "service_id": 66,
+      "name": "Muu toiminta"
+    },
+    {
+      "service_id": 67,
+      "name": "Aerobic"
+    },
+    {
+      "service_id": 90,
+      "name": "Amerikkalainen jalkapallo"
+    },
+    {
+      "service_id": 137,
+      "name": "Australialainen jalkapallo"
+    },
+    {
+      "service_id": 68,
+      "name": "Baletti"
+    },
+    {
+      "service_id": 138,
+      "name": "Baseball"
+    },
+    {
+      "service_id": 69,
+      "name": "Cheerleading"
+    },
+    {
+      "service_id": 136,
+      "name": "Frisbeegolf"
+    },
+    {
+      "service_id": 70,
+      "name": "Futsal"
+    },
+    {
+      "service_id": 108,
+      "name": "Jääkiekko"
+    },
+    {
+      "service_id": 140,
+      "name": "Jääpallo"
+    },
+    {
+      "service_id": 92,
+      "name": "Jalkapallo"
+    },
+    {
+      "service_id": 71,
+      "name": "Jooga"
+    },
+    {
+      "service_id": 72,
+      "name": "Judo"
+    },
+    {
+      "service_id": 85,
+      "name": "Kamppailulajit"
+    },
+    {
+      "service_id": 74,
+      "name": "Käsipallo"
+    },
+    {
+      "service_id": 109,
+      "name": "Kaukalopallo"
+    },
+    {
+      "service_id": 116,
+      "name": "Kokous"
+    },
+    {
+      "service_id": 73,
+      "name": "Koripallo"
+    },
+    {
+      "service_id": 122,
+      "name": "Kriketti"
+    },
+    {
+      "service_id": 1,
+      "name": "Kuntosali"
+    },
+    {
+      "service_id": 139,
+      "name": "Lacrosse"
+    },
+    {
+      "service_id": 75,
+      "name": "Lentopallo"
+    },
+    {
+      "service_id": 76,
+      "name": "Liitokiekko"
+    },
+    {
+      "service_id": 155,
+      "name": "Lippupallo"
+    },
+    {
+      "service_id": 144,
+      "name": "Maahockey"
+    },
+    {
+      "service_id": 106,
+      "name": "Melonta"
+    },
+    {
+      "service_id": 77,
+      "name": "Miekkailu"
+    },
+    {
+      "service_id": 110,
+      "name": "Muodostelmaluistelu"
+    },
+    {
+      "service_id": 78,
+      "name": "Nyrkkeily"
+    },
+    {
+      "service_id": 79,
+      "name": "Paini"
+    },
+    {
+      "service_id": 95,
+      "name": "Painonnosto"
+    },
+    {
+      "service_id": 93,
+      "name": "Pesäpallo"
+    },
+    {
+      "service_id": 142,
+      "name": "Pikaluistelu"
+    },
+    {
+      "service_id": 80,
+      "name": "Pöytätennis"
+    },
+    {
+      "service_id": 113,
+      "name": "Pyöräily"
+    },
+    {
+      "service_id": 81,
+      "name": "Ratsastus"
+    },
+    {
+      "service_id": 141,
+      "name": "Retkiluistelu"
+    },
+    {
+      "service_id": 135,
+      "name": "Ringette"
+    },
+    {
+      "service_id": 121,
+      "name": "Rugby"
+    },
+    {
+      "service_id": 82,
+      "name": "Rytminen voimistelu"
+    },
+    {
+      "service_id": 118,
+      "name": "Sähly"
+    },
+    {
+      "service_id": 83,
+      "name": "Salibandy"
+    },
+    {
+      "service_id": 117,
+      "name": "Sauna"
+    },
+    {
+      "service_id": 105,
+      "name": "Sukellus"
+    },
+    {
+      "service_id": 2,
+      "name": "Sulkapallo"
+    },
+    {
+      "service_id": 147,
+      "name": "Suunnistus"
+    },
+    {
+      "service_id": 111,
+      "name": "Taitoluistelu"
+    },
+    {
+      "service_id": 114,
+      "name": "Taitouinti"
+    },
+    {
+      "service_id": 86,
+      "name": "Tanssi"
+    },
+    {
+      "service_id": 107,
+      "name": "Uimahyppy"
+    },
+    {
+      "service_id": 5,
+      "name": "Uinti"
+    },
+    {
+      "service_id": 103,
+      "name": "Vesipallo"
+    },
+    {
+      "service_id": 115,
+      "name": "Voimanosto"
+    },
+    {
+      "service_id": 89,
+      "name": "Voimistelu"
+    },
+    {
+      "service_id": 94,
+      "name": "Yleisurheilu"
+    }
+  ],
+  "errors": []
+}

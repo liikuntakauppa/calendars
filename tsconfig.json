@@ -1,0 +1,17 @@
+{
+  "include": ["src/**/*.ts", "test/**/*.ts"],
+  "exclude": [],
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "rootDirs": ["src", "test"],
+    "declaration": true,
+    "outDir": "build",
+    "removeComments": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}

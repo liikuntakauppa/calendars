@@ -1,0 +1,127 @@
+{
+  "locations": [
+    {
+      "id": 46,
+      "itemName": "Brahenkenttä",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 289,
+      "itemName": "Jätkäsaaren liikuntapuisto",
+      "region_name": "Länsi",
+      "region_id": 4
+    },
+    {
+      "id": 51,
+      "itemName": "Kontulan liikuntapuisto",
+      "region_name": "Itä",
+      "region_id": 3
+    },
+    {
+      "id": 15,
+      "itemName": "Oulunkylän liikuntapuisto, REMONTISSA 2024-25",
+      "region_name": "Pohjoinen",
+      "region_id": 2
+    }
+  ],
+  "regions": [
+    {
+      "id": 4,
+      "itemName": "Länsi",
+      "location_id": 46
+    },
+    {
+      "id": 3,
+      "itemName": "Itä",
+      "location_id": 51
+    },
+    {
+      "id": 2,
+      "itemName": "Pohjoinen",
+      "location_id": 15
+    }
+  ],
+  "resources": [
+    {
+      "location_id": 46,
+      "service_id": 140,
+      "parents": 586,
+      "children": "647,648,649",
+      "id": 223,
+      "itemName": "Brahen tekojää/tekonurmikenttä"
+    },
+    {
+      "location_id": 46,
+      "service_id": 140,
+      "parents": "223,586",
+      "children": null,
+      "id": 647,
+      "itemName": "Brahen tekojää/tekonurmikenttä osa 1"
+    },
+    {
+      "location_id": 46,
+      "service_id": 140,
+      "parents": "223,586",
+      "children": null,
+      "id": 648,
+      "itemName": "Brahen tekojää/tekonurmikenttä osa 2"
+    },
+    {
+      "location_id": 46,
+      "service_id": 140,
+      "parents": "223,586",
+      "children": null,
+      "id": 649,
+      "itemName": "Brahen tekojää/tekonurmikenttä osa 3"
+    },
+    {
+      "location_id": 289,
+      "service_id": 140,
+      "parents": 1035,
+      "children": null,
+      "id": 1036,
+      "itemName": "Jätkäsaaren tekonurmi/tekojää"
+    },
+    {
+      "location_id": 51,
+      "service_id": 140,
+      "parents": 609,
+      "children": null,
+      "id": 237,
+      "itemName": "Kontulan tekonurmi / tekojää"
+    },
+    {
+      "location_id": 15,
+      "service_id": 140,
+      "parents": 628,
+      "children": "94,95,96,97",
+      "id": 93,
+      "itemName": "Oulunkylän iso tekojää"
+    },
+    {
+      "location_id": 15,
+      "service_id": 140,
+      "parents": "93,628",
+      "children": 97,
+      "id": 94,
+      "itemName": "Oulunkylän iso tekojää osa 1"
+    },
+    {
+      "location_id": 15,
+      "service_id": 140,
+      "parents": "93,628",
+      "children": 97,
+      "id": 95,
+      "itemName": "Oulunkylän iso tekojää osa 2"
+    },
+    {
+      "location_id": 15,
+      "service_id": 140,
+      "parents": "93,628",
+      "children": 97,
+      "id": 96,
+      "itemName": "Oulunkylän iso tekojää osa 3"
+    }
+  ]
+}
