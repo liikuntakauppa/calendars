@@ -47,7 +47,10 @@ done
 #
 # Commit the changes, rebase, and push to the repository.
 #
+echo "Making the commit..."
 git commit -F "$COMMIT_MESSAGE_FILE"
+echo "Rebasing..."
 git pull -r
+echo "Pushing..."
 git push
 echo "Done!"
