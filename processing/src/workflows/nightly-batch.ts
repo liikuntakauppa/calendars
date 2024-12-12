@@ -69,7 +69,7 @@ const generateCalendar = async (name: string, config: RelevantServicesAndLocatio
     const locations = relevantEvents.flatMap(entry => entry.locations)
 
     const fileName = `calendar-${name.toLowerCase().replace(/ä|å/g, 'a').replace(/ö/g, 'o')}.ics`
-    const filePath = join(mkdir('public', 'calendars'), fileName)
+    const filePath = join(mkdir('..', 'astrosite', 'public', 'calendars'), fileName)
     console.log(`Generating an ICS file for ${JSON.stringify(name)} from ${events.length} events at ${JSON.stringify(resolve(filePath))}...`)
     generateIcsFile(filePath, events, resources, locations)
 }
