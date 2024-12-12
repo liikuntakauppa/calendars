@@ -17,7 +17,7 @@ fi
 # Check if any data files have changed. If none have, there's no need to continue.
 #
 CHANGED_FILES=$(git status --short)
-CHANGED_DATA_FILES=$(git status --short | egrep '^ M public/calendars/' | awk '{print $2}')
+CHANGED_DATA_FILES=$(git status --short | egrep 'public/calendars/' | awk '{print $2}')
 if [ "$CHANGED_DATA_FILES" == "" ]; then
     echo "No changes to data files detected:";
     echo "$CHANGED_FILES"
