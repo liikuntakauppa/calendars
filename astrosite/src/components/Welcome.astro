@@ -11,7 +11,7 @@ const isDev = import.meta.env.DEV;
 const calendars = await getCollection('calendars');
 console.log(`Astro's Welcome.astro component got ${calendars.length} calendar events from the collection named ${JSON.stringify('calendars')}:\n` + JSON.stringify(calendars.map((c: any) => c.id + ': ' + c.data.name), null, 2));
 
-const calendarURLs: string[] = calendars.map((c: any) => `/calendars/${c.data.fileName}`)
+const calendarURLs: string[] = calendars.map((c: any) => `/calendars/calendars/${c.data.fileName}`)
 
 const calendarURLAbsolutePaths = isProd
 	? calendarURLs.map(path => new URL(path, Astro.site).href)
